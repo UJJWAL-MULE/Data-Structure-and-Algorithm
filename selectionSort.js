@@ -14,7 +14,7 @@ const SelectionSort =(arr)=>{
     return arr
 }
 
-console.log(BBSort([42, 7, 19, 88, 31]))
+console.log(SelectionSort([42, 7, 19, 88, 31]))
 
 
 sortedINdex = 1
